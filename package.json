@@ -2,12 +2,12 @@
   "name": "mmocord",
   "version": "1.0.0",
   "description": "",
-  "main": "./js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Velkee",
   "license": "AGPL-3.0",
   "dependencies": {
     "@discordjs/builders": "^0.12.0",
